@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "2dMatrixSolver": {
+      "commandName": "Project",
+      "commandLineArgs": "10 2"
+    }
+  }
+}
